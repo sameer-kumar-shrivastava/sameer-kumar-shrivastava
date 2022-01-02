@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sameer-kumar-shrivastava
 - 👀 I’m interested in Web Development and Android Development
-- 🌱 I’m currently learning Blockchain Development along with advanced features in web and android dev
+- 🌱 I’m currently aspires to learn Blockchain Development along with advanced features in web and android development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: mail.sameershrivastava@gmail.com
 
